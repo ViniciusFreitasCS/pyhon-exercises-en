@@ -8,6 +8,6 @@ media = (nota1 + nota2) / 2
 
 print('\n============')
 
-print('\nMédia : {}'.format(media))
+print(f'\nMédia : {media}')
 
 print('\n============')
