@@ -4,26 +4,26 @@ x = int(input('\nDigite um número: '))
 
 print('\n___________')
 
-print("\n{} x 0 = {}".format(x, x * 0))
+print(f"\n{x} x 0 = {x * 0}")
 
-print("{} x 1 = {}".format(x, x * 1))
+print(f"{x} x 1 = {x * 1}")
 
-print("{} x 2 = {}".format(x, x * 2))
+print(f"{x} x 2 = {x * 2}")
 
-print("{} x 3 = {}".format(x, x * 3))
+print(f"{x} x 3 = {x * 3}")
 
-print("{} x 4 = {}".format(x, x * 4))
+print(f"{x} x 4 = {x * 4}")
 
-print("{} x 5 = {}".format(x, x * 5))
+print(f"{x} x 5 = {x * 5}")
 
-print("{} x 6 = {}".format(x, x * 6))
+print(f"{x} x 6 = {x * 6}")
 
-print("{} x 7 = {}".format(x, x * 7))
+print(f"{x} x 7 = {x * 7}")
 
-print("{} x 8 = {}".format(x, x * 8))
+print(f"{x} x 8 = {x * 8}")
 
-print("{} x 9 = {}".format(x, x * 9))
+print(f"{x} x 9 = {x * 9}")
 
-print("{} x 10 = {}".format(x, x * 10))
+print(f"{x} x 10 = {x * 10}")
 
 print('\n___________')
