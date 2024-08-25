@@ -8,6 +8,6 @@ desconto = valor * 0.05
 
 valor_final = valor - desconto
 
-print('\nO novo preço com o desconto é de R$ {}'.format(valor_final))
+print(f'\nO novo preço com o desconto é de R$ {valor_final}')
 
 print('\n=========================================')
