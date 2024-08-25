@@ -8,8 +8,8 @@ aumento = salario * 0.15
 
 salario_final = salario + aumento
 
-print('\nAumento (+15%) : {:.2f}'.format(aumento))
+print(f'\nAumento (+15%) : {aumento:.2f}')
 
-print('\nNovo salário (R$) : {:.2f}'.format(salario_final))
+print(f'\nNovo salário (R$) : {salario_final:.2f}')
 
 print('\n===========================')
