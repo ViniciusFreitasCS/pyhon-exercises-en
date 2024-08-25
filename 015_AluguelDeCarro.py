@@ -12,10 +12,10 @@ valor_final = valor_dia + valor_km
 
 print('\n==================NOTA FISCAL====================')
 
-print('\nTempo de uso : R$60,00/dia x {} dias = {:.2f}'.format(dias, valor_dia))
+print(f'\nTempo de uso : R$60,00/dia x {dias} dias = {valor_dia:.2f}')
 
-print('\nDistância percorrida : R$0,15/km x {} km = {:.2f}'.format(km, valor_km))
+print(f'\nDistância percorrida : R$0,15/km x {km} km = {valor_km:.2f}')
 
-print('\nTotal a pagar : R${:.2f}'.format(valor_final))
+print(f'\nTotal a pagar : R${valor_final:.2f}')
 
 print('\n=================================================')
