@@ -9,8 +9,8 @@ area = alt * larg
 
 tinta = area / 2
 
-print('\nÁrea (m2) : {}'.format(area))
+print(f'\nÁrea (m2) : {area}')
 
-print('\nSão necessários {} litros de tinta para pintar a parede.'.format(tinta))
+print(f'\nSão necessários {tinta} litros de tinta para pintar a parede.')
 
 print('\n=========================================================')
