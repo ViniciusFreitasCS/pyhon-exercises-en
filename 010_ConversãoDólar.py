@@ -4,8 +4,8 @@ dolar = int(input('\nDólares (US$) : '))
 
 print('\n==========================')
 
-real = dolar * 3.27
+real = dolar * 5.54
 
-print('\nUS$ {} equivalem a R$ {}.'.format(dolar, real))
+print(f'\nUS$ {dolar} equivalem a R$ {real}.')
 
 print('\n==========================')
